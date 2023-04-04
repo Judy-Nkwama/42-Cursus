@@ -1,1 +1,1 @@
-# 42-Cursus
+#My 42-School's projects
